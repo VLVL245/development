@@ -1,0 +1,11 @@
+// css на картинку фон из html файла
+.ibg{
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	}
+	
+.ibg img{
+display: none;
+}
