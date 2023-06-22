@@ -241,6 +241,7 @@ body {
     -webkit-box-pack: start;
         -ms-flex-pack: start;
             justify-content: start;
+    height: 70px;
   }
 }
 
