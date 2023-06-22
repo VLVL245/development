@@ -407,6 +407,9 @@ body {
 .web_project__footer {
   margin: 10% 0 25px 0;
 }
+@media (max-width: 992.98px){
+  margin: 1% 0 10px 0;
+}
 
 @media (max-width: 767.98px) {
   .web_project__footer {
